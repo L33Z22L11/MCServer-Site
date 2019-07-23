@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+---
+title: 'MC 情热大陆 Jounetsu Tairiku'
+description: '情热大陆是一个富强、民主、文明、和谐、自由、平等、公正、法治、爱国、敬业、诚信、友善的我的世界游戏服务器。自2018年1月6日成立至今已有两年历史……'
+---
 
-You can use the [editor on GitHub](https://github.com/fileport/jt.zhilu.fun/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/jt.zhilu.fun/embed" width="728" height="90"></iframe>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+------
 
-### Markdown
+# 信息 / Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+|   服务器地址 / IP | jt.zhilu.fun                                                 |
+| ----------------: | :----------------------------------------------------------- |
+|   主页 / Homepage | [jt.zhilu.fun](http://jt.zhilu.fun)                          |
+|      QQ群 / Group | [705649064](https://jq.qq.com/?_wv=1027&k=5Lzj3H9)           |
+|      服主 / Owner | [CunMin (村民)](https://zh-cn.namemc.com/profile/CunMin.1)   |
+| 管理员 / Operator | [DiSHIL (黑灵)](https://zh-cn.namemc.com/profile/DiSHIL.1) **[Zhilu (纸鹿)](https://zh-cn.namemc.com/profile/Zhilu.2)** |
+|    位置 / Loction | Unknown                                                      |
+|    版本 / Version | Unknown 1.12.2                                               |
 
-```markdown
-Syntax highlighted code block
+服务器IP：gt.zhilu.fun 由**萌新 [Zhilu (纸鹿)](https://zh-cn.namemc.com/profile/Zhilu.2)** 负责解析。
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fileport/jt.zhilu.fun/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
