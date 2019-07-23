@@ -1,10 +1,8 @@
 ---
 title: 'MC 情热大陆 Jounetsu Tairiku'
-description: '情热大陆是一个富强、民主、文明、和谐、自由、平等、公正、法治、爱国、敬业、诚信、友善的我的世界游戏服务器。自2018年1月6日成立至今已有两年历史……'
 ---
 
 <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/jt.zhilu.fun/embed" width="728" height="90"></iframe>
-
 ------
 
 # 信息 / Information
@@ -14,9 +12,28 @@ description: '情热大陆是一个富强、民主、文明、和谐、自由、
 |   主页 / Homepage | [jt.zhilu.fun](http://jt.zhilu.fun)                          |
 |      QQ群 / Group | [705649064](https://jq.qq.com/?_wv=1027&k=5Lzj3H9)           |
 |      服主 / Owner | [CunMin (村民)](https://zh-cn.namemc.com/profile/CunMin.1)   |
-| 管理员 / Operator | [DiSHIL (黑灵)](https://zh-cn.namemc.com/profile/DiSHIL.1) **[Zhilu (纸鹿)](https://zh-cn.namemc.com/profile/Zhilu.2)** |
+| 管理员 / Operator | [DiSHIL (黑灵)](https://zh-cn.namemc.com/profile/DiSHIL.1) [Zhilu (纸鹿)](https://zh-cn.namemc.com/profile/Zhilu.2) |
 |    位置 / Loction | Unknown                                                      |
 |    版本 / Version | Unknown 1.12.2                                               |
 
 服务器IP：gt.zhilu.fun 由**萌新 [Zhilu (纸鹿)](https://zh-cn.namemc.com/profile/Zhilu.2)** 负责解析。
 
+# 介绍 / Introduction
+
+节选自情热大陆群公告
+
+> CunMin 2019.5.15 17:06
+>
+> 服务器条例:
+>
+> 1.进群先将群名片改为游戏ID
+>
+> 2.禁止散播谣言，广告等
+>
+> 3.禁止发表敏感言论（如se情，zhengzhi敏感等）
+>
+> 4.禁止发布敏感图片（同上）
+>
+> 5.禁止宣传服务器
+>
+> 6.（请其他管理员补足）如有违反，轻者休息一天，重者出群留学
