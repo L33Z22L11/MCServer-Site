@@ -2,6 +2,8 @@
 title: '情热大陆 | Minecraft服务器 | Jounetsu Tairiku'
 ---
 
+![](d_c.jpg)
+
 <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/jt.zhilu.fun/embed" width="728" height="90"></iframe>
 # 信息 / Information
 
