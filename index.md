@@ -6,7 +6,7 @@ title: '情热大陆 Minecraft服务器 JounetsuTairiku'
 
 [表情转换 / Emoji Translator](https://l33z22l11.github.io/ExpressMe/)
 
-[历史 / History](README)
+[历史 / History](history)
 
 ------
 
