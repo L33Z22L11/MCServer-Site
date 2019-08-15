@@ -2,17 +2,11 @@
 title: '情热大陆 Minecraft服务器 JounetsuTairiku'
 ---
 
-主页 / Homepage
-
-[表情转换 / Emoji Translator](https://l33z22l11.github.io/ExpressMe/)
-
-[历史 / History](README)
-
-------
-
 ![](home.jpg)
 
 <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/qrdl.fun/embed" width="728" height="90"></iframe>
+------
+
 # 信息 / Information
 
 |   服务器地址 / IP | qrdl.fun                                                     |
